@@ -1,16 +1,6 @@
-(Plano medio)
-Estamos ante el nacimiento de una nueva tecnología. La tecnología que ha resucitado a la inteligencia artificial. La tecnología que imita al cerebro. Y la tecnología que a través las matemáticas hace que las neuronas dejen de ser biológicas y pasen a ser digitales. Estoy hablando del
+Estamos ante el nacimiento de una nueva tecnología. La tecnología que ha resucitado a la inteligencia artificial. La tecnología que imita al cerebro. Y la tecnología que a través las matemáticas hace que las neuronas dejen de ser biológicas y pasen a ser digitales. Estoy hablando del **deep learning**.
 
-(título en grande)
-DEEP LEARNING
-
-Hola, me llamo Javi, bienvenidos a mi canal de neurosapiens. Este es el primer video de una serie llamada las matemáticas de la inteligencia donde os contaré en que consiste esto del deep learning.
-
-
-Intro video
----
-
-Mi objetivo final es dar a conocer a todo el mundo una tecnología que considero super-interesante y super-emocionante, vamos ver que hay más interesante que crear inteligencia, es como echar un pulso a la biología y la evolución y ser capaces nosotros mismos de fabricar una inteligencia mejor. Así que voy a hablar del Deep Learning, una tecnología que casi nadie conoce, y que es probablemte un gran paso para la inteligencia artificial.
+Hola, me llamo Javi, bienvenidos a mi blog de neurosapiens. Esta es la primera entrada de muchas en las que voy a contar las entrañas de esto del deep learning. Mi objetivo final es dar a conocer a todo el mundo una tecnología que considero super interesante y emocionante, vamos ver, ¿qué hay más interesante que crear inteligencia, es como echar un pulso a la biología y la evolución y ser capaces nosotros mismos de fabricar una inteligencia mejor. Así que voy a hablar del Deep Learning, una tecnología que casi nadie conoce, y que es probablemte un gran paso para la inteligencia artificial.
 
 No va a ser un curso convencional lleno de fórmulas matemáticas por todas partes, sino que contaré de forma clara, intuitiva y visual todos las matemáticas de esto del deep learning. Por lo tanto no hará falta tener conocimiento previo de nada.
 
@@ -42,7 +32,7 @@ Y esque aunque las redes nueronales artificailes son relatimante antiguas de añ
 - necesitabamos mayores cantidades de datos de los cuales aprender. Lo que se conoce como Big data.
 - necestiábamos orednadores mas poentenes para procesar tanta información
 
-nueva cienca
+Nueva cienca
 ---
 
 Podríamos describir el deep learning como la ingeniriá de fabricar inteligencia artificial, es poner en práctica la neurociencia.
