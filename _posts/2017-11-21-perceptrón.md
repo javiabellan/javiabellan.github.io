@@ -39,7 +39,7 @@ Explicación matemática
 
 Antes de irme, La neurona que acabo de explicar se llama perceptrón y es un clasificador bastante simple para decidir segun la impfrmacion que tengamos activar o no una salida. La definición matemática es
 
-(Fórmula del perceptron)
+$$Perceptrón(x)=\sigma(b+\sum_{i=0}^n x_i w_i)$$
 
 Por lo tanto tenemos que ajustar los pesos para que la nuerona sea inteligente, este proceso de dar con los pesos adecuados se conoce como entrenamiento
 
