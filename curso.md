@@ -2,7 +2,7 @@
 title: Curso
 layout: collection
 permalink: /curso/
-collection: curso
+collection: capitulos
 entries_layout: grid
 ---
 
