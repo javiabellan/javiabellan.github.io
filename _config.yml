@@ -85,6 +85,7 @@ collections:
   capitulos:
     output: true
 #    permalink: /curso/:collection/:path/
+    permalink: /:collection/:path/
 
 # Front Matter Defaults
 defaults:
@@ -99,6 +100,12 @@ defaults:
   - scope:
       path: "curso"
       type: curso
+    values:
+      layout: post
+      share: true
+  - scope:
+      path: "capitulos"
+      type: capitulos
     values:
       layout: post
       share: true
