@@ -76,11 +76,11 @@ plugins:
 
 # Collections (links de arriba)
 collections:
-  curso:   # La carpeta necesita un _ delante: _curso
+  capitulos:   # La carpeta necesita un _ delante
     output: true
     permalink: /:collection/:path/
-#  curso-tema:
-#    output: true
+  secciones:
+    output: true
 #    permalink: /curso/:collection/:path/
 
 # Front Matter Defaults
