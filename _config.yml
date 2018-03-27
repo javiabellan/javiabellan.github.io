@@ -74,9 +74,11 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
-# Collections (links de arriba)
+# Collections (agrupaciones)
+# La carpeta necesita un _ delante
+# La carpeta va en la carpeta raiz siempre
 collections:
-  curso:   # La carpeta necesita un _ delante
+  curso:
     output: true
     permalink: /:collection/:path/
   secciones:
