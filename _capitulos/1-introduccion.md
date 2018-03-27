@@ -1,5 +1,6 @@
 ---
-chapter: 01
+title: "Introducción"
+chapter: 1
 layout: chapter
 ---
 
