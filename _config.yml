@@ -94,7 +94,7 @@ defaults:
       share: true
   # Recipe defaults
   - scope:
-      path: "_posts/curso"
+      path: "curso"
       type: curso
     values:
       layout: post
