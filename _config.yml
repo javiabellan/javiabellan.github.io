@@ -79,6 +79,9 @@ collections:
   curso:
     output: true
     permalink: /:collection/:path/
+  curso-tema:
+    output: true
+    permalink: /curso/:collection/:path/
 
 # Front Matter Defaults
 defaults:
