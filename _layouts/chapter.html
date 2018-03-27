@@ -1,0 +1,11 @@
+---
+layout: page
+---
+
+{{ content }}
+
+{% for section in site.sections %}
+{% if section.chapter == page.chapter %}
+{{ section.output }}
+{% endif %}
+{% endfor %}
