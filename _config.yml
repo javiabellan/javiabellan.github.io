@@ -76,7 +76,7 @@ plugins:
 
 # Collections (links de arriba)
 collections:
-  curso:
+  curso:   # La carpeta necesita un _ delante: _curso
     output: true
     permalink: /:collection/:path/
 #  curso-tema:
