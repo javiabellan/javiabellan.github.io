@@ -80,7 +80,7 @@ plugins:
 collections:
   curso:
     #output:  false
-    output: true
+    output: false
     permalink: /:collection/:path/
   capitulos:
     output: true
