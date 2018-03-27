@@ -1,8 +1,10 @@
+- title: Inicio
+  url: /
 - title: Curso
   url: /curso/
 - title: Proyectos
   url: /proyectos/
-- title: Categorias
+- title: Categorías
   url: /categorias/
 - title: Buscar
   url: /buscar/
