@@ -79,14 +79,14 @@ plugins:
 defaults:
   # Posts defaults
   - scope:
-      path: "posts"
+      path: "_posts"
       type: posts
     values:
       layout: post
       share: true
   # Recipe defaults
   - scope:
-      path: "posts/curso"
+      path: "_posts/curso"
       type: curso
     values:
       layout: post
