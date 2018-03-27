@@ -84,8 +84,8 @@ collections:
     permalink: /:collection/:path/
   capitulos:
     output: true
-#    permalink: /curso/:collection/:path/
     permalink: /:collection/:path/
+#    permalink: /curso/:collection/:path/
 
 # Front Matter Defaults
 defaults:
@@ -98,13 +98,13 @@ defaults:
       share: true
   # Recipe defaults
   - scope:
-      path: "curso"
+      path: "_curso"
       type: curso
     values:
       layout: post
       share: true
   - scope:
-      path: "capitulos"
+      path: "_capitulos"
       type: capitulos
     values:
       layout: post
