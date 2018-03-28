@@ -78,6 +78,9 @@ plugins:
 # La carpeta necesita un _ delante
 # La carpeta va en la carpeta raiz siempre
 collections:
+  inicio:
+    output: true
+    permalink: /:collection/:path/
   curso:
     output: true
     permalink: /:collection/:path/
@@ -91,7 +94,12 @@ defaults:
     values:
       layout: post
       share: true
-  # Recipe defaults
+  - scope:
+      path: "_index"
+      type: inicio
+    values:
+      layout: post
+      share: true
   - scope:
       path: "_curso"
       type: curso
