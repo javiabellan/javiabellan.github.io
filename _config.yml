@@ -79,13 +79,8 @@ plugins:
 # La carpeta va en la carpeta raiz siempre
 collections:
   curso:
-    #output:  false
-    output: false
-    permalink: /:collection/:path/
-  capitulos:
     output: true
     permalink: /:collection/:path/
-#    permalink: /curso/:collection/:path/
 
 # Front Matter Defaults
 defaults:
@@ -100,12 +95,6 @@ defaults:
   - scope:
       path: "_curso"
       type: curso
-    values:
-      layout: post
-      share: true
-  - scope:
-      path: "_capitulos"
-      type: capitulos
     values:
       layout: post
       share: true
