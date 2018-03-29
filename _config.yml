@@ -105,10 +105,9 @@ defaults:
       share: true
   - scope:
       path: "_curso"
-      type: curso
     values:
       layout: post
-      share: true
+      read_time: false
 
 # Site Author
 author:
