@@ -1,9 +1,9 @@
 ---
-title: Curso
+title: Cursos
 layout: collection
 permalink: /curso/
 collection: curso
 entries_layout: grid
 ---
 
-Teoría paara convertirte en un experto.
+Teoría para convertirte en un experto. Basado en el libro de Ian Goodfellow.

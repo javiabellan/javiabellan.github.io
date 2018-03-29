@@ -84,6 +84,9 @@ collections:
   curso:
     output: true
     permalink: /:collection/:path/
+  neural-nets:
+    output: true
+    permalink: /:collection/:path/
 
 # Front Matter Defaults
 defaults:

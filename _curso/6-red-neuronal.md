@@ -1,6 +1,11 @@
 ---
 title: "Redes neuronales"
+layout: collection
+permalink: /curso/red-neuronal/
+collection: neural-nets
+entries_layout: grid
 ---
+
 
 Las redes neuronales artificiales, (también llamadas perceptrones multicapa) son el fundamento del deep learning.
 Y como el deep learning es el campo más prometedor de la inteligencia artificial a día de hoy,
