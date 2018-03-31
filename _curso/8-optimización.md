@@ -14,7 +14,7 @@ En este capítulo veremos como podemos hacer el proceso de **entrenamiento más 
 * Cambiar el lerning rate
   * AdaGrad
   * RMSProp
-  * Adam
+  * [Adam](https://arxiv.org/abs/1412.6980)
   * Choosing the Right Optimization Algorithm
 * Approximación de segundo orden
   * Método de Newtown
@@ -28,3 +28,8 @@ En este capítulo veremos como podemos hacer el proceso de **entrenamiento más 
 
 
 * ReLU
+
+## Referencias
+
+* [un blog](https://blog.acolyer.org/2017/03/01/optimisation-and-training-techniques-for-deep-learning/)
+* [Adam](https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/)
