@@ -26,8 +26,29 @@ En este capítulo veremos como podemos hacer el proceso de **entrenamiento más 
   * Polyak Averaging
   * Supervised Pretraining
 
-
 * ReLU
+
+
+# 8.1 Batch
+
+Los problemas de optimización usan todo el conjunto de entrenamiento (**batch**) para actualizar una función de error. Pero podemos conseguir también buenos resultados si solo usamos parte (**minibatch**), y así nos ahorraremos tiempo de computación. El otro extremo sería usar solo 1 muestra (stochastic). Lo normal es usar un minibatch.
+
+| Batch              | Stochastic | Minibatch  |
+|--------------------|------------|------------|
+| Todas las muestras | 1 muestra  | N muestras |
+
+
+### Stochastic gradient descent (SGD)
+Se actualiza el modelo por cada muestra que ve (batchSize=1)
+
+### Batch gradient descent
+Se ven todos los datos, pero solo se actuliza el modelo al final de la epoch (batchSize=todo)
+
+### Mini-batch gradient descent
+Se cogen solo un grupo de muestras (batch) y se actualiza el modelo cuando se han visto esas muestras (batchSize=parte).
+
+Se hacen varias interaciones por cada batch hasta que se vean todas las mustras (completar una epoch).
+el tamaño del últomo bach creo que debe ser mas pequeño para poder así compleatar la epoch.
 
 ## Referencias
 
