@@ -31,11 +31,22 @@ En este capítulo veremos como podemos hacer el proceso de **entrenamiento más 
 
 # 8.1 Batch
 
-Los problemas de optimización usan todo el conjunto de entrenamiento (**batch**) para actualizar una función de error. Pero podemos conseguir también buenos resultados si solo usamos parte (**minibatch**), y así nos ahorraremos tiempo de computación. El otro extremo sería usar solo 1 muestra (stochastic). Lo normal es usar un minibatch.
+Los problemas de optimización usan todo el conjunto de entrenamiento (**batch**) para actualizar una función de error. Pero podemos conseguir también buenos resultados si solo usamos parte (**minibatch**), y así nos ahorraremos tiempo de computación. El otro extremo sería usar solo 1 muestra (stochastic). Lo normal es usar un minibatch (de 100 más o menos).
 
 | Batch              | Stochastic | Minibatch  |
 |--------------------|------------|------------|
 | Todas las muestras | 1 muestra  | N muestras |
+
+> Consejo:
+>
+> Si usas stochastic, o un minibatch muy pequeño, acuerdate de poner un learning rate pequeño
+> para compensar la alta variazanza que tienen tus mustras.
+
+> Ojo!
+>
+> La mayoría de frameworks aprovechan para calcular cada muestra del batch en paralelo, esto supene una limitiación para poner batches muy altos porque no caben en memoria.
+
+
 
 
 ### Stochastic gradient descent (SGD)
