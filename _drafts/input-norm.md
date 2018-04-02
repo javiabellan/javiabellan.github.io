@@ -37,5 +37,7 @@ ax2.scatter(entrada_normalizada[:,0], entrada_normalizada[:,1], color='r')
 plt.axis((-5, 10, -5, 10))
 plt.show()
 
-
 ```
+
+## Referencias:
+Punto 4.3 de [Efficient BackProp](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
