@@ -99,23 +99,23 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "/assets/images/michael-rose.jpg"
-  bio              : "Just another boring, tattooed, time traveling, designer."
-  location         : "Buffalo, NY"
-  email            :
-  uri              : "https://mademistakes.com"
-  home             : "https://mademistakes.com"
+  avatar           : "/images/perfil.jpeg"
+  bio              : "Estudiante de inteligencia artificial."
+  location         : "Murcia, ES"
+  email            : franfdk17@gmail.com
+  uri              :
+  home             :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         : *facebook
   foursquare       :
-  github           : "mmistakes"
+  github           : "javiabellan"
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        : "mmistakes"
+  instagram        : "javiabellanabenza"
   lastfm           :
   linkedin         :
   pinterest        :
