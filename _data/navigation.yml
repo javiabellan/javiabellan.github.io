@@ -20,17 +20,42 @@ foo:
 
 # main links
 main:
+  - title: "Curso"
+    url: /curso/
   - title: "Quick-Start Guide"
     url: /docs/quick-start-guide/
-  - title: "About"
+  - title: "Sobre mí"
     url: /about/
-  - title: "Sample Posts"
+  - title: "Por años"
     url: /year-archive/
   - title: "Sample Collections"
     url: /collection-archive/
   - title: "Terms &amp; Privacy Policy"
     url: /terms/
 
+
+# Curso de deep learning
+curso:
+  - title: Introducción
+    children:
+      - title: "Introducción"
+        url: /curso/1-introduction/
+  - title: Matemáticas
+    children:
+      - title: "Álgebra lineal"
+        url: /curso/2-linear-algebra/
+      - title: "Probabilidad"
+        url: /curso/3-probability/
+      - title: "Computación"
+        url: /curso/4-computation/
+  - title: Redes neuronales
+    children:
+      - title: "Perceptrón"
+        url: /curso/6-perceptron/
+      - title: "Red neuronal"
+        url: /curso/6-red-neuronal/
+      - title: "Descenso por gradiente"
+        url: /curso/6.2-gradient-desc/
 
 # documentation links
 docs:

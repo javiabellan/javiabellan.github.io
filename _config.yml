@@ -187,6 +187,9 @@ kramdown:
 
 # Collections
 collections:
+  curso:
+    output: true
+    permalink: /:collection/:path/
   docs:
     output: true
     permalink: /:collection/:path/
@@ -221,6 +224,18 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _curso
+  - scope:
+      path: ""
+      type: curso
+    values:
+      layout: single
+      read_time: true
+      author_profile: false
+      share: false
+      comments: true
+      sidebar:
+        nav: "curso"
   # _docs
   - scope:
       path: ""

@@ -17,23 +17,23 @@ feature_row:
     alt: "customizable"
     title: "Cursos"
     excerpt: "Toda la teoría necesaria para convertirte en un experto."
-    url: "/docs/configuration/"
+    url: "/curso/"
     btn_class: "btn--primary"
-    btn_label: "Learn More"
+    btn_label: "Ir al curso"
   - image_path: /images/portadas/app.png
     alt: "app"
     title: "Proyectos"
     excerpt: "Ejemplos reales para practicar."
     url: "/docs/layouts/"
     btn_class: "btn--primary"
-    btn_label: "Learn More"
+    btn_label: "Próximamente"
   - image_path: /images/portadas/about.png
     alt: "100% free"
     title: "Sobre mí"
     excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it, whatever!"
     url: "/docs/license/"
     btn_class: "btn--primary"
-    btn_label: "Learn More"
+    btn_label: "Próximamente"
 
 ---
 
