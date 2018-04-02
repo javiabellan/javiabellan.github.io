@@ -1,3 +1,7 @@
+---
+title: "Introducción"
+---
+
 Estamos ante el nacimiento de una nueva tecnología. La tecnología que ha resucitado a la inteligencia artificial. La tecnología que imita al cerebro. Y la tecnología que a través las matemáticas hace que las neuronas dejen de ser biológicas y pasen a ser digitales. Estoy hablando del **deep learning**.
 
 Hola, me llamo Javi, bienvenidos a mi blog de neurosapiens. Esta es la primera entrada de muchas en las que voy a contar las entrañas de esto del deep learning. Mi objetivo final es dar a conocer a todo el mundo una tecnología que considero super interesante y emocionante, vamos ver, ¿qué hay más interesante que crear inteligencia, es como echar un pulso a la biología y la evolución y ser capaces nosotros mismos de fabricar una inteligencia mejor. Así que voy a hablar del Deep Learning, una tecnología que casi nadie conoce, y que es probablemte un gran paso para la inteligencia artificial.

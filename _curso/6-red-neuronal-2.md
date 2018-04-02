@@ -1,3 +1,7 @@
+---
+title: "Red neuronal"
+---
+
 ¿sabes cuantas neuronas tienes en tu cerebro? 86000 millones (86,000,000,000) pero eso no es nada si nos comparamos con un elefante, que tiene 215,000,000,000 claro, es normal, tiene un cerebro más grande, (cambio de sonido)pero... ¿porque los elefantes no son más listos que nosotros? La clave está no el número de nueronas, sino en el número de conexiones entre neuronas o sinapses, aquí es donde ganamos, nosotros tenemos 16,300 millones y ellos solo 5600 millones.
 
 (intro video)

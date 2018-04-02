@@ -1,3 +1,7 @@
+---
+title: "Perceptrón"
+---
+
 Las neuronas de nuestro cerebro son las responsables de nuestra inteligencia, una nerona por si sola no es capaz de mucho pero cuando se conectan muchas, unas con otras, es cuando la magia de la inteligencia aparece.
 
 ---
