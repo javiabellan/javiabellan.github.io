@@ -9,7 +9,11 @@ Pasarle los input a pelo a la red puede ser una mala idea, ya que la red converg
 Además esta herística no solo debe ser aplicada a la capa de entrada solo, sino a todas las capas.
 
 Normalmente, para datasets grandes y variados, la gente calcula la media (mean) y desviacion standard (std)
-y normalizan `(img - MEAN) / STD`. Esto lo que hace es escalar y mover la entrada cerca de 0  (media=0 y varianza=1).
+y normalizan `(img - MEAN) / STD`.
+
+Esto lo que hace es escalar y mover la entrada cerca de 0:
+* media = 0
+* Desviación estándar (y varianza) = 1
 
 
 ## Código
